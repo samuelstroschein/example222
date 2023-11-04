@@ -100,48 +100,6 @@
 					]
 				}
 			]
-		},
-		{
-			"id": "headerWelcome",
-			"selectors": [],
-			"variants": [
-				{
-					"match": [],
-					"languageTag": "en",
-					"pattern": [
-						{
-							"type": "Text",
-							"value": "The current language tag is \""
-						},
-						{
-							"type": "VariableReference",
-							"name": "languageTag"
-						},
-						{
-							"type": "Text",
-							"value": "\"."
-						}
-					]
-				},
-				{
-					"languageTag": "de",
-					"match": [],
-					"pattern": [
-						{
-							"type": "Text",
-							"value": "Das aktuelle Sprach-Tag ist „ "
-						},
-						{
-							"type": "VariableReference",
-							"name": "languageTag"
-						},
-						{
-							"type": "Text",
-							"value": " „."
-						}
-					]
-				}
-			]
 		}
 	]
 }
