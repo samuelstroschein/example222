@@ -22,24 +22,6 @@
 							"value": "\"."
 						}
 					]
-				},
-				{
-					"match": [],
-					"languageTag": "de",
-					"pattern": [
-						{
-							"type": "Text",
-							"value": "Der aktuelle Sprachtag ist \""
-						},
-						{
-							"type": "VariableReference",
-							"name": "languageTag"
-						},
-						{
-							"type": "Text",
-							"value": "\"."
-						}
-					]
 				}
 			]
 		},
