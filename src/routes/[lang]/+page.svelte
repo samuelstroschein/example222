@@ -1,7 +1,6 @@
 <script lang="ts">
-	import "@inlang/paraglide-js"
-	import { setLanguageTag, languageTag } from "../../paraglide-js/runtime"
-	import * as m from "../../paraglide-js/messages"
+  import { setLanguageTag, languageTag } from "../../paraglide-js/runtime";
+  import * as m from "../../paraglide-js/messages";
 </script>
 
 <p>{m.greeting({ name: "Samuel", count: 5 })}</p>
