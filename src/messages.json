@@ -22,6 +22,24 @@
 							"value": "\"."
 						}
 					]
+				},
+				{
+					"languageTag": "de",
+					"match": [],
+					"pattern": [
+						{
+							"type": "Text",
+							"value": "Das aktuelle Sprach-Tag ist „ "
+						},
+						{
+							"type": "VariableReference",
+							"name": "languageTag"
+						},
+						{
+							"type": "Text",
+							"value": " „."
+						}
+					]
 				}
 			]
 		},
