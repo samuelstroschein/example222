@@ -40,24 +40,6 @@
 							"value": "\"."
 						}
 					]
-				},
-				{
-					"languageTag": "fr",
-					"match": [],
-					"pattern": [
-						{
-							"type": "Text",
-							"value": "La balise de langue actuelle est \" "
-						},
-						{
-							"type": "VariableReference",
-							"name": "languageTag"
-						},
-						{
-							"type": "Text",
-							"value": " \"."
-						}
-					]
 				}
 			]
 		},
@@ -114,32 +96,6 @@
 						{
 							"type": "Text",
 							"value": " Nachrichten."
-						}
-					]
-				},
-				{
-					"languageTag": "fr",
-					"match": [],
-					"pattern": [
-						{
-							"type": "Text",
-							"value": "Bienvenue "
-						},
-						{
-							"type": "VariableReference",
-							"name": "name"
-						},
-						{
-							"type": "Text",
-							"value": " ! Vous avez des messages "
-						},
-						{
-							"type": "VariableReference",
-							"name": "count"
-						},
-						{
-							"type": "Text",
-							"value": " ."
 						}
 					]
 				}
