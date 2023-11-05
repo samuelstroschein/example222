@@ -29,7 +29,7 @@
 					"pattern": [
 						{
 							"type": "Text",
-							"value": "Das aktuelle Sprach-Tag ist \""
+							"value": "Das aktuelle Sprach-Tag ist „ "
 						},
 						{
 							"type": "VariableReference",
@@ -37,7 +37,7 @@
 						},
 						{
 							"type": "Text",
-							"value": "\"."
+							"value": " „."
 						}
 					]
 				}
